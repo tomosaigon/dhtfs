@@ -1,0 +1,29 @@
+{
+  "name": "@tomosaigon/dhtfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomosaigon/dhtfs.git"
+  },
+  "keywords": [
+    "dht",
+    "bittorrent"
+  ],
+  "author": "tomosaigon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomosaigon/dhtfs/issues"
+  },
+  "homepage": "https://github.com/tomosaigon/dhtfs#readme",
+  "dependencies": {
+    "bittorrent-dht": "^11.0.1",
+    "debug": "^4.3.4",
+    "ed25519-supercop": "^2.0.1"
+  }
+}
